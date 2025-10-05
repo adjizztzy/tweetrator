@@ -8,16 +8,16 @@
 </script>
 
 <MetaTags
-	title="Tweetrator"
+	title="Fake Twitter"
 	description="A generator website to create a fake tweets."
 	additionalMetaTags={[
 		{
 			property: 'dc:creator',
-			content: 'Mohamad Adithya'
+			content: 'Seraphyne'
 		},
 		{
 			name: 'application-name',
-			content: 'Tweetrator'
+			content: 'fake Twitter'
 		},
 		{
 			httpEquiv: 'x-ua-compatible',
@@ -63,8 +63,8 @@
 				<p class="text-sm">
 					&copy; 2022 Tweetrator | <a
 						class="font-bold"
-						href="https://m-adithya.my.id"
-						aria-label="Author">Mohamad Adithya</a
+						href="https://t.me/divineshiina"
+						aria-label="Author">Seraphyne</a
 					>
 				</p>
 			</footer>
@@ -79,8 +79,8 @@
 			<p class="text-sm">
 				&copy; 2022 Tweetrator | <a
 					class="font-bold"
-					href="https://m-adithya.my.id"
-					aria-label="Author">Mohamad Adithya</a
+					href="https://t.me/divineshiina"
+					aria-label="Author">Seraphyne</a
 				>
 			</p>
 		</Container>
